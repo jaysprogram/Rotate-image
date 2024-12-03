@@ -9,6 +9,10 @@ python3 if on linux
 <input_image> = specify a image to input including the file extension Ex: image.ppm
 <rotation_angle> = specify the rotation you want in degrees clockwise 
 
+To run without python:
+
+./rotate_image <input_image> <rotation_angle> <output_image>
+<output_image> = The name of the output
 
 The program supports reading PPM files in 'P6' format (binary).
 

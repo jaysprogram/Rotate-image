@@ -63,5 +63,6 @@ axs[1].axis("off")
 
 # Show the before and after comparison
 plt.tight_layout()
+plt.savefig('results.png')
 plt.show()
 
