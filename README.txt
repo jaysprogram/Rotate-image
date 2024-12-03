@@ -7,7 +7,7 @@ python rotate_image.py <input_image> <rotation_angle>
 python3 if on linux
 
 <input_image> = specify a image to input including the file extension Ex: image.ppm
-<rotation_angle> = specify the rotation you want in degrees
+<rotation_angle> = specify the rotation you want in degrees clockwise 
 
 
 The program supports reading PPM files in 'P6' format (binary).
